@@ -1,2 +1,1 @@
-# DevOps
-This Repo is created for learning purpose.
+#To be added after working on the code
